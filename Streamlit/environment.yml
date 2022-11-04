@@ -3,8 +3,5 @@ dependencies:
   - numpy
   - pandas
   - matplotlib
-  - PIL
-  - webbrowser
-  - sklearn
   - joblib
   - xgboost
